@@ -1,0 +1,31 @@
+sku,category,true_elasticity
+SOF-001,Sofas,-1.912
+SOF-002,Sofas,-1.217
+SOF-003,Sofas,-1.355
+SOF-004,Sofas,-1.467
+SOF-005,Sofas,-1.569
+SOF-006,Sofas,-1.918
+DIN-001,Dining Tables,-1.507
+DIN-002,Dining Tables,-2.381
+DIN-003,Dining Tables,-1.755
+DIN-004,Dining Tables,-2.191
+DIN-005,Dining Tables,-1.526
+DIN-006,Dining Tables,-1.656
+MAT-001,Mattresses,-1.118
+MAT-002,Mattresses,-1.325
+MAT-003,Mattresses,-1.521
+MAT-004,Mattresses,-0.999
+MAT-005,Mattresses,-1.056
+MAT-006,Mattresses,-1.148
+RUG-001,Area Rugs,-2.429
+RUG-002,Area Rugs,-2.72
+RUG-003,Area Rugs,-2.606
+RUG-004,Area Rugs,-2.323
+RUG-005,Area Rugs,-2.537
+RUG-006,Area Rugs,-2.696
+LGT-001,Lighting,-2.072
+LGT-002,Lighting,-1.818
+LGT-003,Lighting,-2.22
+LGT-004,Lighting,-1.865
+LGT-005,Lighting,-1.877
+LGT-006,Lighting,-2.125
